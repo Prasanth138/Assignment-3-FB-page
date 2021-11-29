@@ -1,35 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&family=Poppins&display=swap');
 body {
-  background-color: #16161a;
+  background-color: rgb(8, 8, 8);
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
 }
-.logo {
-  width: 100px;
-  height: 100px;
-}
 .log {
-  overflow: hidden;
-  width: 100px;
-  border-radius: 50px;
-  margin : -15px;
-  margin-bottom:40px;
-  border: 3px solid #333131;
+    margin : -13px;
+  }
+  .img-circle{
+    border-style: solid;
+    border-color: #333333;
+}
+.button {
+    background-color: #464646;
+    border: none;
+  }
+.buttons{
+    background-color:#666666 ;
+    color:white;
+}
+section{
+  background-color: rgb(41, 39, 39);
+  background-image: linear-gradient(to top, rgba(54, 52, 52, 0) 50%, rgba(255, 255, 255, 0.5));
 }
 a{
   text-decoration: none;
 }
-.button {
-  background-color: #464646;
-  border: none;
+btns{
+  color: #da2626;
 }
-
-.profile {
-  width: 10px;
-  height: 10px;
-}
-.gallery{
-  width : 20px;
-  height : 20px;
-}
-
