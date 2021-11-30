@@ -26,6 +26,8 @@ section{
 a{
   text-decoration: none;
 }
-btns{
-  color: #da2626;
+.btn:hover {
+  background-color: #1329ec; 
+  color: white;
 }
+
