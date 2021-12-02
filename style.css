@@ -5,7 +5,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 .log {
-    margin : -13px;
+    margin-top : -13px;
   }
   .img-circle{
     border-style: solid;
@@ -29,5 +29,8 @@ a{
 .btn:hover {
   background-color: #1329ec; 
   color: white;
+}
+.btns{
+  background-color: #666666;
 }
 
